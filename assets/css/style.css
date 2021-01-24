@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/* ヘッダー */
+/* アラート */
+/* ナビバー */
+.header-wrapper .header-logo{
+  font-size: 30px;
+  font-style: oblique;
+  margin-right: 2.5em;
+}
+/* メイン */
+/* 見出し */
+.main-heading{
+  background: url(../image/bg-universe.jpg);
+  background-size: cover;
+}
+.main-heading h1{
+  font-style: oblique;
+}
+/* 活動内容 */
+.content-wrapper{
+  display: flex;
+}
+.content-text h3{
+  color: #3ed3d3;
+}
+#content img{
+  border-radius: 10px;
+}
+/* 活動経歴 */
+.history-wrapper h3>span{
+  font-size: 12px;
+}
+/* メンバー */
+
+/* フッター */
+#footer p{
+  text-decoration: underline;
+}
+
+
+
+
